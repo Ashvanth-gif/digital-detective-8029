@@ -33,7 +33,6 @@ I checked whether I could reach `example.com` and looked up its DNS information.
 - `ping -c 4 example.com` — checked whether the website responded.
 - `nslookup example.com` — checked DNS information.
 
-[Keep only the commands you actually used. Remove addresses from any output you include.]
 
 ## 4. My understanding
 Devices use networks to send information. DNS helps find websites by name, and a browser uses network requests to get a webpage from a server.
