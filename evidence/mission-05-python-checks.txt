@@ -1,0 +1,15 @@
+Mission 5 - Python check and converter results
+
+Python interactive checks:
+bin(13) -> '0b1101'
+bin(25) -> '0b11001'
+int('1010', 2) -> 10
+int('1101', 2) -> 13
+hex(10) -> '0xa'
+int('1F', 16) -> 31
+hex(int('1111', 2))[2:].upper() -> 'F'
+
+Converter runs:
+Input 13 -> Binary 1101, Hexadecimal D
+Input 25 -> Binary 11001, Hexadecimal 19
+Input 42 -> Binary 101010, Hexadecimal 2A
