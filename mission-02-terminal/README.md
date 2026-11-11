@@ -1,33 +1,37 @@
-# Mission 2 — Become Comfortable with the Terminal
+# Mission 2 - Terminal and File Management
 
 ## 1. Task / objective
-I practised using Terminal to look at folders and create, copy, and rename files.
+I practised using Terminal to create, copy, rename, and read files.
 
 ## 2. Work completed
-I created a practice folder and a text file. I added a second line, made a copy, and renamed the copy.
+I created a practice folder and a text file. I added two lines to the file, copied it, and renamed the copy as a backup. I also used a pipe to count the lines.
 
 ## 3. Commands / tools used
-- `pwd` — showed my current folder.
-- `ls` — showed the files in the folder.
-- `mkdir` — created a folder.
-- `touch` — created an empty file.
-- `cp` — copied a file.
-- `mv` — moved or renamed a file.
-- `cat` — displayed a file's contents.
-
-I also used `[command]` to `[what it did]`.
+- `mkdir` - created the practice folder.
+- `cd` - moved into the practice folder.
+- `touch` - created an empty text file.
+- `printf` - added text to the file.
+- `cp` - copied the file.
+- `mv` - renamed the copy as a backup.
+- `cat` - displayed the file contents.
+- `ls` - listed the files in the folder.
+- `cat notes.txt | wc -l` - used a pipe to count the lines in the file.
 
 ## 4. My understanding
-Terminal lets me manage files by typing commands. `cp` makes a copy, while `mv` moves or renames a file. A pipe (`|`) sends the result of one command to another command.
+Terminal lets me manage files by typing commands. `cp` makes a copy, while `mv` moves or renames a file. A pipe (`|`) sends the output of one command to another command.
 
 ## 5. Difficulties faced
-At first, I was not sure which folder Terminal was using.
+At first, I was not sure what a pipe did or how it could be useful.
 
 ## 6. How I resolved them
-I used `pwd` to check my current folder. Then I used `cd` to move to my practice folder.
+I used `cat notes.txt | wc -l`. The first command showed the text, and the pipe sent its output to `wc -l`, which counted two lines.
 
 ## 7. Evidence / files
-I created a practice text file and its backup.
+- `practice-files/notes.txt` - the original text file.
+- `practice-files/notes-backup.txt` - the renamed copy.
+- [`../evidence/mission-02-terminal.txt`](../evidence/mission-02-terminal.txt) - a short record of the commands and results.
+- Screenshot: still to add if required by the assignment.
 
 ## 8. Commit details
-I committed my work with the message “Complete Terminal and file management mission.”
+Commit message: `Complete Terminal and file management mission`
+Status: Committed and pushed.

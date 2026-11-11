@@ -1,0 +1,2 @@
+I practised basic terminal commands.
+I copied and renamed this file.

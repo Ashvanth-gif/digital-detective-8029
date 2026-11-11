@@ -1,0 +1,23 @@
+Mission 2 terminal practice record
+
+Commands run inside mission-02-terminal:
+mkdir -p practice-files
+cd practice-files
+touch notes.txt
+printf 'I practised basic terminal commands.\nI copied and renamed this file.\n' > notes.txt
+cp notes.txt notes-copy.txt
+mv notes-copy.txt notes-backup.txt
+cat notes.txt
+ls
+cat notes.txt | wc -l
+
+Results:
+notes.txt contained two lines:
+I practised basic terminal commands.
+I copied and renamed this file.
+
+The folder contained:
+notes-backup.txt
+notes.txt
+
+The pipe command counted 2 lines.

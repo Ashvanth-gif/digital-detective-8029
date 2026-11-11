@@ -9,7 +9,7 @@ I reviewed my repository and checked that my mission work was organized and read
 |---|---|---|
 | Mission 0 — Setup | Incomplete | Repository structure and setup notes are present; confirm `8029` matches the required USN suffix. |
 | Mission 1 — Computer basics | Complete | IPOS, hardware/software, and computer-system tables are in the README. |
-| Mission 2 — Terminal | Incomplete | The README still has a placeholder, and the practice files are missing from the repository. |
+| Mission 2 — Terminal | Incomplete | Practice files and a command record are added; the requested screenshot still needs to be added. |
 | Mission 3 — Operating system | Incomplete | System observations and evidence are still placeholders. |
 | Mission 4 — Programs | Incomplete | `hello.py` is missing, and the program output is still a placeholder. |
 | Mission 5 — Numbers and data | Incomplete | Converter test results and Python checks are still placeholders. |
@@ -34,7 +34,7 @@ I found it confusing to check whether my changes were committed and pushed. I al
 I checked my branch and used `git status` to see whether I had saved changes. I compared `update-about` with `main` on GitHub to check my Pull Request.
 
 ## 7. Evidence / files
-My mission notes are saved in their mission folders. I did not add separate screenshots or command outputs to the evidence folder.
+My mission notes are saved in their mission folders. I added a text record of the Mission 2 terminal commands and results; the requested screenshot still needs to be added.
 
 ## 8. Commit details
 Commit message: `Update final mission status review`
