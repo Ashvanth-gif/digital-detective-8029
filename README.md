@@ -15,3 +15,7 @@ This repository contains my work for the Digital Detective assignment. It is org
 - [Mission 8 — Final Report](mission-08-final-report/README.md)
 
 I will complete and document each mission in its own folder.
+
+## My Learning
+
+I learned how Git tracks changes and how branches and Pull Requests help organize work.
