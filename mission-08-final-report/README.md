@@ -9,7 +9,7 @@ I reviewed my repository and checked that my mission work was organized and read
 |---|---|---|
 | Mission 0 — Setup | Incomplete | Repository structure and setup notes are present; confirm `8029` matches the required USN suffix. |
 | Mission 1 — Computer basics | Complete | IPOS, hardware/software, and computer-system tables are in the README. |
-| Mission 2 — Terminal | Complete | Terminal practice and screenshot evidence are complete; the screenshot has the username and computer name covered. |
+| Mission 2 — Terminal | Complete | File operations, flags, pipes, and the Homebrew check are documented; screenshot evidence is privacy-safe. |
 | Mission 3 — Operating system | Incomplete | System observations and evidence are still placeholders. |
 | Mission 4 — Programs | Incomplete | `hello.py` is missing, and the program output is still a placeholder. |
 | Mission 5 — Numbers and data | Incomplete | Converter test results and Python checks are still placeholders. |
@@ -37,5 +37,5 @@ I checked my branch and used `git status` to see whether I had saved changes. I 
 My mission notes are saved in their mission folders. I added a text record and a redacted screenshot of the Mission 2 terminal commands and results.
 
 ## 8. Commit details
-Commit message: `Add redacted Mission 2 terminal screenshot`
+Commit message: `Complete Mission 2 flags and package manager tasks`
 Status: Committed and pushed

@@ -1,23 +1,18 @@
-Mission 2 terminal practice record
+Mission 2 - privacy-safe command notes
 
-Commands run inside mission-02-terminal:
-mkdir -p practice-files
-cd practice-files
-touch notes.txt
-printf 'I practised basic terminal commands.\nI copied and renamed this file.\n' > notes.txt
-cp notes.txt notes-copy.txt
-mv notes-copy.txt notes-backup.txt
-cat notes.txt
-ls
-cat notes.txt | wc -l
+File practice
+- I added two lines to notes.txt. Both lines were still there when I displayed the file.
+- The backup file contained the same two lines.
+- `ls` showed the regular files. `ls -lah` also showed the hidden example file and detailed file information.
+- The permission letters for the practice text file were `rw-r--r--`. The owner can read and write it, but does not need execute permission for a text file.
+- The pipe command `ls -lah | head -n 5` displayed only the first five lines of the detailed listing.
 
-Results:
-notes.txt contained two lines:
-I practised basic terminal commands.
-I copied and renamed this file.
+Package manager check
+- Homebrew version: 7.0.6.
+- Formula packages listed: 131.
+- Cask packages listed: 0.
+- I did not install or remove any software.
 
-The folder contained:
-notes-backup.txt
-notes.txt
-
-The pipe command counted 2 lines.
+Privacy note
+- The terminal screenshot is in this folder. Its username and computer name are covered.
+- I did not include a home-folder path or package names in this record.
