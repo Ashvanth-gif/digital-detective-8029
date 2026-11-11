@@ -1,0 +1,9 @@
+Mission 7 network check results
+
+Command: ping -c 4 example.com
+Result: The hostname resolved, and all 4 packets received replies. Packet loss: 0%.
+
+Command: nslookup example.com
+Result: DNS lookup succeeded and returned address records.
+
+IP addresses are omitted from this evidence file.

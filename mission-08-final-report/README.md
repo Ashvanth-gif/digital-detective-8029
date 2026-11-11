@@ -14,7 +14,7 @@ I reviewed my repository and checked that my mission work was organized and read
 | Mission 4 — Programs | Complete | `hello.py` runs and prints `Hello from Python`; the compiler/interpreter comparison is included. |
 | Mission 5 — Numbers and data | Complete | Manual conversions, Python checks, three converter inputs, and encoding notes are included. |
 | Mission 6 — Git and GitHub | Complete | Git command glossary is complete, and [Pull Request #1](https://github.com/Ashvanth-gif/digital-detective-8029/pull/1) is merged. |
-| Mission 7 — Networking | Incomplete | Connectivity and DNS results are still placeholders. |
+| Mission 7 — Networking | Complete | Ping received 4 of 4 replies, and the DNS lookup succeeded; results are recorded without IP addresses. |
 | Mission 8 — Final report | In progress | This review records the remaining work. |
 
 Repository link: https://github.com/Ashvanth-gif/digital-detective-8029
@@ -34,8 +34,8 @@ I found it confusing to check whether my changes were committed and pushed. I al
 I checked my branch and used `git status` to see whether I had saved changes. I compared `update-about` with `main` on GitHub to check my Pull Request.
 
 ## 7. Evidence / files
-My mission notes are saved in their mission folders. Evidence includes privacy-safe notes for Missions 2 and 3, Mission 4's program output, Mission 5's Python checks and converter results, and Mission 6's merged Pull Request.
+My mission notes are saved in their mission folders. Evidence includes privacy-safe notes for Missions 2, 3, and 7, Mission 4's program output, Mission 5's Python checks and converter results, and Mission 6's merged Pull Request.
 
 ## 8. Commit details
-Commit message: `Complete Git command glossary`
+Commit message: `Complete Mission 7 network checks`
 Status: Committed and pushed

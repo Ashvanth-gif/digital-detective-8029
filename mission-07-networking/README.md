@@ -18,8 +18,8 @@ I learned some basic network terms and what happens when I open a website.
 ### Network checks
 I checked whether I could reach `example.com` and looked up its DNS information.
 
-- Connectivity check result: [write what happened; do not include any IP addresses]
-- DNS lookup result: [say whether it worked; do not include any IP addresses]
+- Connectivity check: `ping -c 4 example.com` received all 4 replies with no packet loss.
+- DNS lookup: `nslookup example.com` succeeded and returned address records. I have not included the IP addresses.
 
 ### What happens when I open a website
 1. I enter a website address in my browser.
@@ -44,7 +44,7 @@ I was unsure how DNS helps my browser find a website.
 I used a DNS lookup to see that a website name is looked up before the browser can connect to it.
 
 ## 7. Evidence / files
-I recorded the results of my connectivity check and DNS lookup. I removed any IP addresses and personal network information.
+The privacy-safe results are recorded in [`evidence/mission-07-networking.txt`](../evidence/mission-07-networking.txt). The note leaves out IP addresses and personal network information.
 
 ## 8. Commit details
 Commit message: `Explain networking concepts and website communication`
