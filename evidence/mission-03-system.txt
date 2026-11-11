@@ -1,0 +1,21 @@
+Mission 3 - privacy-safe observation notes
+
+Operating system
+- macOS 27.3.
+- The active account was checked; its name is redacted.
+
+Storage
+- About 298 GiB used and 136 GiB available on a 460 GiB volume.
+
+Processes
+- Activity Monitor displayed the Processes list with a PID column.
+- Examples visible in the list included Safari and Google Chrome.
+- No account names or PID values are included here.
+- The `ps` command was blocked in this environment, so Activity Monitor was used instead.
+
+Paths and permissions
+- The displayed current location changed after entering the Mission 3 folder.
+- Absolute path example: /Users/[redacted]/Desktop/digital-detective-8029/mission-03-operating-system/README.md
+- Relative path example from the repository root: mission-03-operating-system/README.md
+- README permission string: -rw-r--r--@. Owner permissions: rw- (read and write, not execute). The @ marks extended attributes on macOS.
+- Usernames and other identifying details were omitted.
