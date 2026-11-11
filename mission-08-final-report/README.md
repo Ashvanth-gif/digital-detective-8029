@@ -7,7 +7,7 @@ I reviewed my repository and checked that my mission work was organized and read
 
 | Mission | Status | Notes |
 |---|---|---|
-| Mission 0 — Setup | Incomplete | Repository structure and setup notes are present; confirm `8029` matches the required USN suffix. |
+| Mission 0 — Setup | Complete | The repository, mission folders, and setup notes are in place. The repository name ends in `8029`. |
 | Mission 1 — Computer basics | Complete | IPOS, hardware/software, and computer-system tables are in the README. |
 | Mission 2 — Terminal | Complete | File operations, flags, pipes, and the Homebrew check are documented; screenshot evidence is privacy-safe. |
 | Mission 3 — Operating system | Complete | Privacy-safe system, storage, process, path, and permission observations are documented. |
@@ -34,8 +34,8 @@ I found it confusing to check whether my changes were committed and pushed. I al
 I checked my branch and used `git status` to see whether I had saved changes. I compared `update-about` with `main` on GitHub to check my Pull Request.
 
 ## 7. Evidence / files
-My mission notes are saved in their mission folders. Evidence includes privacy-safe notes for Missions 2, 3, and 7, Mission 4's program output, Mission 5's Python checks and converter results, and Mission 6's merged Pull Request.
+My mission notes are saved in their mission folders. Evidence includes Mission 0's setup notes, privacy-safe notes for Missions 2, 3, and 7, Mission 4's program output, Mission 5's Python checks and converter results, and Mission 6's merged Pull Request.
 
 ## 8. Commit details
-Commit message: `Complete Mission 7 network checks`
+Commit message: `Complete Mission 0 repository setup`
 Status: Committed and pushed

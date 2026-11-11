@@ -1,0 +1,9 @@
+Mission 0 setup notes
+
+Repository: digital-detective-8029
+Remote: GitHub repository for the Digital Detective assignment
+Mission folders: mission-00-setup through mission-08-final-report
+Python version: Python 3.14.5
+Git version: git version 2.55.0
+
+The root README links to each mission folder.

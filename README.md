@@ -14,7 +14,7 @@ This repository contains my work for the Digital Detective assignment. It is org
 - [Mission 7 — Networking](mission-07-networking/README.md)
 - [Mission 8 — Final Report](mission-08-final-report/README.md)
 
-I will complete and document each mission in its own folder.
+Each mission's work is documented in its own folder.
 
 ## My Learning
 
