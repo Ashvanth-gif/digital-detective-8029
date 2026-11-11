@@ -25,6 +25,13 @@ The Homebrew check showed version 7.0.6, 131 formula packages, and no cask packa
 ## 4. My understanding
 `pwd` tells me where I am, and `ls` helps me see what is in that folder. Using `>` replaces a file's contents, while `>>` adds text at the end. `cp` makes another copy; `mv` moves or renames a file. The `-l` option adds details, `-a` includes hidden files, and `-h` makes sizes easier to read. A pipe (`|`) sends the left command's output to the command on the right. A package manager helps install, update, and remove software in an organized way.
 
+### Task 2.2 reflection questions
+
+- **What is the difference between replacing a file's contents and adding text to the end?** Replacing removes the old contents and writes new text. Adding text keeps the old contents and puts the new text after them.
+- **What is the difference between copying and moving a file?** Copying makes another file and keeps the original. Moving changes the file's location or name.
+- **What information does the current-directory display provide?** It shows the full path of the folder I am currently working in.
+- **Why is a directory listing useful?** It shows the files and folders in a location so I can find and manage them.
+
 ## 5. Difficulties faced
 At first, I was unsure how command options changed a listing and how the pipe passed information between commands.
 
