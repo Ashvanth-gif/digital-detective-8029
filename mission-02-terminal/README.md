@@ -30,8 +30,8 @@ I used `cat notes.txt | wc -l`. The first command showed the text, and the pipe 
 - `practice-files/notes.txt` - the original text file.
 - `practice-files/notes-backup.txt` - the renamed copy.
 - [`../evidence/mission-02-terminal.txt`](../evidence/mission-02-terminal.txt) - a short record of the commands and results.
-- I captured a terminal screenshot and kept it locally because it shows my computer details.
+- [`../evidence/mission-02-terminal.png`](../evidence/mission-02-terminal.png) - screenshot with the username and computer name covered.
 
 ## 8. Commit details
-Commit message: `Mark Mission 2 terminal practice complete`
+Commit message: `Add redacted Mission 2 terminal screenshot`
 Status: Committed and pushed.
