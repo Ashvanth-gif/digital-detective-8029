@@ -15,7 +15,7 @@ I reviewed my repository and checked that my mission work was organized and read
 | Mission 5 — Numbers and data | Complete | Manual conversions, Python checks, three converter inputs, and encoding notes are included. |
 | Mission 6 — Git and GitHub | Complete | Git command glossary is complete, and [Pull Request #1](https://github.com/Ashvanth-gif/digital-detective-8029/pull/1) is merged. |
 | Mission 7 — Networking | Complete | Ping received 4 of 4 replies, and the DNS lookup succeeded; results are recorded without IP addresses. |
-| Mission 8 — Final report | In progress | This review records the remaining work. |
+| Mission 8 — Final report | Complete | Mission statuses and evidence are recorded in this report. |
 
 Repository link: https://github.com/Ashvanth-gif/digital-detective-8029
 
@@ -37,5 +37,5 @@ I checked my branch and used `git status` to see whether I had saved changes. I 
 My mission notes are saved in their mission folders. Evidence includes Mission 0's setup notes, privacy-safe notes for Missions 2, 3, and 7, Mission 4's program output, Mission 5's Python checks and converter results, and Mission 6's merged Pull Request.
 
 ## 8. Commit details
-Commit message: `Complete Mission 0 repository setup`
+Commit message: `Complete final mission report`
 Status: Committed and pushed
