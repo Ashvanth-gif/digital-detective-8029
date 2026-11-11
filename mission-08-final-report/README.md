@@ -11,7 +11,7 @@ I reviewed my repository and checked that my mission work was organized and read
 | Mission 1 — Computer basics | Complete | IPOS, hardware/software, and computer-system tables are in the README. |
 | Mission 2 — Terminal | Complete | File operations, flags, pipes, and the Homebrew check are documented; screenshot evidence is privacy-safe. |
 | Mission 3 — Operating system | Complete | Privacy-safe system, storage, process, path, and permission observations are documented. |
-| Mission 4 — Programs | Incomplete | `hello.py` is missing, and the program output is still a placeholder. |
+| Mission 4 — Programs | Complete | `hello.py` runs and prints `Hello from Python`; the compiler/interpreter comparison is included. |
 | Mission 5 — Numbers and data | Incomplete | Converter test results and Python checks are still placeholders. |
 | Mission 6 — Git and GitHub | Incomplete | [Pull Request #1](https://github.com/Ashvanth-gif/digital-detective-8029/pull/1) is merged; the Git glossary still needs `git init`, `git branch`, and `git switch`. |
 | Mission 7 — Networking | Incomplete | Connectivity and DNS results are still placeholders. |
@@ -34,8 +34,8 @@ I found it confusing to check whether my changes were committed and pushed. I al
 I checked my branch and used `git status` to see whether I had saved changes. I compared `update-about` with `main` on GitHub to check my Pull Request.
 
 ## 7. Evidence / files
-My mission notes are saved in their mission folders. I added privacy-safe terminal evidence for Missions 2 and 3.
+My mission notes are saved in their mission folders. They include privacy-safe evidence for Missions 2 and 3 and the recorded Python output for Mission 4.
 
 ## 8. Commit details
-Commit message: `Document operating system and file management`
+Commit message: `Add and run Mission 4 Python program`
 Status: Committed and pushed
