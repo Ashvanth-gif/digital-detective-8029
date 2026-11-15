@@ -21,6 +21,11 @@ I checked whether I could reach `example.com` and looked up its DNS information.
 - Connectivity check: `ping -c 4 example.com` received all 4 replies with no packet loss.
 - DNS lookup: `nslookup example.com` succeeded and returned address records. I have not included the IP addresses.
 
+### Task 7.2 questions
+- **What does a connectivity test check?** It checks whether my computer can send data to a website and receive a reply.
+- **What information does a DNS lookup display?** It shows DNS records for a domain, such as the network addresses associated with its name. I left the actual addresses out of my notes.
+- **What does DNS do when I enter a website name?** DNS looks up the network address for that name so the browser can contact the website's server.
+
 ### What happens when I open a website
 1. I enter a website address in my browser.
 2. DNS helps find the address for the website.
