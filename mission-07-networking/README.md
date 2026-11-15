@@ -16,10 +16,10 @@ I learned some basic network terms and what happens when I open a website.
 - **Client-server:** A client asks for something, and a server responds.
 
 ### Network checks
-I checked whether I could reach `example.com` and looked up its DNS information.
+I checked whether I could reach GitHub at `github.com` and looked up its DNS information.
 
-- Connectivity check: `ping -c 4 example.com` received all 4 replies with no packet loss.
-- DNS lookup: `nslookup example.com` succeeded and returned address records. I have not included the IP addresses.
+- Connectivity check: `ping -c 4 github.com` received all 4 replies with no packet loss.
+- DNS lookup: `nslookup github.com` succeeded and returned an address record. I have not included the IP address.
 
 ### Task 7.2 questions
 - **What does a connectivity test check?** It checks whether my computer can send data to a website and receive a reply.
@@ -35,8 +35,8 @@ I checked whether I could reach `example.com` and looked up its DNS information.
 6. My browser displays the page.
 
 ## 3. Commands / tools used
-- `ping -c 4 example.com` — checked whether the website responded.
-- `nslookup example.com` — checked DNS information.
+- `ping -c 4 github.com` — checked whether the website responded.
+- `nslookup github.com` — checked DNS information.
 
 
 ## 4. My understanding
@@ -52,5 +52,5 @@ I used a DNS lookup to see that a website name is looked up before the browser c
 The privacy-safe results are recorded in [`evidence/mission-07-networking.txt`](../evidence/mission-07-networking.txt). The note leaves out IP addresses and personal network information.
 
 ## 8. Commit details
-Commit message: `Explain networking concepts and website communication`
+Commit message: `Document GitHub network lookup results`
 Status: Committed and pushed.

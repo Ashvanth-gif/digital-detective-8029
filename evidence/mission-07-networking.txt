@@ -1,9 +1,9 @@
-Mission 7 network check results
+Mission 7 network check results for GitHub
 
-Command: ping -c 4 example.com
+Command: ping -c 4 github.com
 Result: The hostname resolved, and all 4 packets received replies. Packet loss: 0%.
 
-Command: nslookup example.com
-Result: DNS lookup succeeded and returned address records.
+Command: nslookup github.com
+Result: DNS lookup succeeded and returned an address record.
 
 IP addresses are omitted from this evidence file.
