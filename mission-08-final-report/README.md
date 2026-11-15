@@ -34,8 +34,8 @@ I found it confusing to check whether my changes were committed and pushed. I al
 I checked my branch and used `git status` to see whether I had saved changes. I compared `update-about` with `main` on GitHub to check my Pull Request.
 
 ## 7. Evidence / files
-My mission notes are saved in their mission folders. Evidence includes Mission 0's setup notes, privacy-safe notes for Missions 2, 3, and 7, Mission 4's program output, Mission 5's Python checks and converter results, and Mission 6's merged Pull Request.
+Each mission has evidence in the `evidence/` folder or a linked deliverable in its README. The final review index is [`evidence/mission-08-final-report.txt`](../evidence/mission-08-final-report.txt).
 
 ## 8. Commit details
-Commit message: `Complete final mission report`
+Commit message: `Add evidence files for remaining missions`
 Status: Committed and pushed

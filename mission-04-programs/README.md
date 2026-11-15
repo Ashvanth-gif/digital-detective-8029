@@ -40,6 +40,7 @@ I ran `python3 hello.py` from the Mission 4 folder and checked that the message 
 
 ## 7. Evidence / files
 - [`hello.py`](hello.py) - the program I ran.
+- [`evidence/mission-04-programs.txt`](../evidence/mission-04-programs.txt) - command and output from running the program.
 
 ## 8. Commit details
 Commit message: `Add and run Mission 4 Python program`

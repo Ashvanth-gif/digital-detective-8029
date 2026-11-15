@@ -59,6 +59,7 @@ I followed the steps in order: check the status, stage the selected file, commit
 ## 7. Evidence / files
 - Root [`README.md`](../README.md) - contains the “My Learning” section.
 - [Pull Request #1](https://github.com/Ashvanth-gif/digital-detective-8029/pull/1) - merged branch and review record.
+- [`evidence/mission-06-git-github.txt`](../evidence/mission-06-git-github.txt) - summarizes the branch and Pull Request evidence.
 
 ## 8. Commit details
 Commit message: `Complete Git command glossary`

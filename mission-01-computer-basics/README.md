@@ -44,7 +44,8 @@ I did not have any problems.
 Not applicable.
 
 ## 7. Evidence / files
-No screenshots saved. My IPOS example and tables are in this README.
+- The IPOS example and tables are included in this README.
+- [`evidence/mission-01-computer-basics.txt`](../evidence/mission-01-computer-basics.txt) - notes the completed tables and example.
 
 ## 8. Commit details
 I added the required tables in a correction commit with the message “Add required tables to Mission 1 README.”
